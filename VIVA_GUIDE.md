@@ -175,3 +175,4 @@ If asked *"What would you build next?"*, highlight these planned milestones:
 ### 💡 Quick Viva Tip Sheet
 - **Keywords to mention:** *Neuro-Symbolic AI, Expressive Aphasia, Assistive Tech, Vector Embeddings, Cosine Distance, Retrieval-Augmented Generation (RAG), Latency Masking, Dense Retrieval.*
 - **If asked to demo:** Use the fragment `"coffee... morning... black"` or `"kitchen... water... fall"`, show Swagger UI at `/docs`, execute `/api/rag/query`, and demonstrate how ChromaDB context is passed into `/api/speech/deduce-intent`.
+
